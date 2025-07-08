@@ -16,3 +16,8 @@ Generated daily revenue time series for modeling.
 - `notebooks/`: EDA and modeling notebooks
 - `src/`: Preprocessing and modeling scripts
 - `dashboard/`: Streamlit dashboard
+
+## Insight
+
+- Penjualan menurun pada saat weekend
+- Ada kejadian khusus pada November 2017 yang menyebabkan lonjakan revenue sangat tinggi
